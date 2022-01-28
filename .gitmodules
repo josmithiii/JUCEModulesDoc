@@ -1,0 +1,4 @@
+[submodule "PluginGuiMagic"]
+	path = PluginGuiMagic
+	url = https://github.com/ffAudio/PluginGuiMagic.git
+	branch = develop

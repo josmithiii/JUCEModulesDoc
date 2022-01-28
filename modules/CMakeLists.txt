@@ -1,0 +1,1 @@
+../PluginGuiMagic/JUCE/modules/CMakeLists.txt
